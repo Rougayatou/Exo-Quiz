@@ -1,0 +1,16 @@
+@import './base.css';
+
+:root {
+  --color-background: #f1f5f9;
+  --color-text: #1f2937;
+  --color-heading: #1f2937;
+}
+
+#app {
+  min-height: 100vh;
+}
+
+body {
+  background: #f1f5f9;
+  color: #1f2937;
+}
